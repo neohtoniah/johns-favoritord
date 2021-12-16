@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+
+#titleHeading {
+    color: white;
+    font-family: "Helvetica";
+    font-size: 300%;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.contentHeading {
+    color: white;
+    font-family: "Helvetica";
+    font-size: 180%;
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.content {
+    color: white;
+    font-family: "Helvetica";
+    font-size: 180%;
+    text-align: center;
+}
+
+#counter {
+    color: lime;
+    font-size: 350%;
+}
+
+.contentGroup {
+    margin: auto;
+    width: 400px;
+    border: 2px solid white;
+    border-spacing: 25%;
+}
